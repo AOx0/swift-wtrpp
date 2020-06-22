@@ -26,6 +26,8 @@ Functional and non-functional requirements pull software in different directions
   - **Functional qualities:** what the software does. All functional qualities are external.
   - **Non-functional qualities:** how the software is. Can be either internal or external, depending on if is related to the code itself or to its emerging traits (characteristics).
 
+
+
 <img src="https://github.com/AOx0/swift-wtrpp/blob/master/res/Untitled.png" style="zoom:25%;" />
 
 ### External software qualities
