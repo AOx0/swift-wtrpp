@@ -19,13 +19,17 @@ The word quality should be intended as a characteristic that a piece of software
 
 Functional and non-functional requirements pull software in different directions. It’s your job to find a balance.
 
-- **- Internal vs External**
-  - External qualities: can be perceived by the end user while interacting with the system
-  - Internal qualities: can be appraised only by looking at the source code.
+- **Internal vs External**
 
--  **- Internal vs External**
-  - Functional qualities: what the software does. All functional qualities are external.
-  - Non-functional qualities: how the software is. Can be either internal or external, depending on if is related to the code itself or to its emerging traits (characteristics).
+External qualities: can be perceived by the end user while interacting with the system
+
+Internal qualities: can be appraised only by looking at the source code.
+
+-  **Internal vs External**
+
+Functional qualities: what the software does. All functional qualities are external.
+
+Non-functional qualities: how the software is. Can be either internal or external, depending on if is related to the code itself or to its emerging traits (characteristics).
 
 
 
